@@ -1,19 +1,26 @@
 @charset "utf-8";
  body { 
  	background-color:pink; 
- 	font-family: Meiryo;
+ 	font-family: Meiryo;;
  	}
  h1{
  	font-size: 30px;
  	color:deeppink;
  	text-align: center;
+ 	margin: 5px;
+ 	padding: 10px;
  	}
  h2{
  	font-size: 25px;
+ 	margin: 1px;
  	}
  p{
 	font-size: 20px;
+	margin: 1px;
+
     }
  li{
  	font-size: 20px;
+ 	margin: 1px;
+
  }
