@@ -1,3 +1,19 @@
-<style>
- body { background-color: white; }
-</style>
+@charset "utf-8";
+ body { 
+ 	background-color:pink; 
+ 	font-family: Meiryo;
+ 	}
+ h1{
+ 	font-size: 30px;
+ 	color:deeppink;
+ 	text-align: center;
+ 	}
+ h2{
+ 	font-size: 25px;
+ 	}
+ p{
+	font-size: 20px;
+    }
+ li{
+ 	font-size: 20px;
+ }
